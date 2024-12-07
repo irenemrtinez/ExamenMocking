@@ -1,0 +1,6 @@
+# Archivos de Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Archivos generados por VSCode
+/.vscode/
